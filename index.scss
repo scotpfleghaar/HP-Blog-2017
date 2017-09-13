@@ -5,7 +5,7 @@ $theme-colors: (
   primary: #007bff,
   secondary: #868e96,
   success: #28a745,
-  info: #17a2b8,
+  info: #ffd9b3,
   warning: #ffc107,
   danger: #dc3545,
   light: #f8f9fa,
@@ -92,6 +92,10 @@ body > * {
   }
 }
 .nav-border-top-bottom {
-	border-top: 1px solid black;
-  border-bottom: 1px solid black;
+	border-top: 1px solid  #bfbfbf;
+  border-bottom: 1px solid  #bfbfbf;
 }
+
+
+
+
